@@ -2,7 +2,8 @@
 
 ## Setup
 Developer tools as computer setup
-<img alt ="Development computer with Python example" src="Python-Development-With-Studio.jpg" width="225px" height="100px">
+
+<img alt ="Development computer with Python example" src="Python-Development-With-Studio.jpg" width="350px" height="175px">
 
 Currently, I am cascading my windows to easily see these. My windows are **GitHub** in the browser, and in taskbar: **GitHub desktop** and Visual Studio Code *VS Code*.
 > When I cascade, I size windows about 4/5ths the size of the screen and place them from the upper left corner of the screen. Then place the subsequent windows slightly below and to right of another window. Then a sliver of all windows is seen, no matter which is open.
@@ -73,7 +74,6 @@ For a beginner-friendly step-by-step example, ChatGPT provided steps to edit a R
 ># My Project Title
 
 >This is a *simple* description written in **Markdown**.
-
 
 4. 💾 :notes: :mailbox_with_mail: Commit and Push Your Changes
 - Save the file in VS Code.
