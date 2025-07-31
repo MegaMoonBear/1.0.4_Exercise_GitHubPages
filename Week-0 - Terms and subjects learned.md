@@ -3,7 +3,7 @@
 ## Setup
 Developer tools as computer setup
 ![Computer setup - Diagram as image](Python-Development-With-Studio.jpg)
-[Computer setup - Diagram as link](https://www.google.com/imgres?q=developer%20computer%20setup%20github%20%22visual%20studio%20code%22%20diagram&imgurl=https%3A%2F%2Ffiles.realpython.com%2Fmedia%2FPython-Development-With-Studio-New-Logo-Code_Watermarked.5183c0de2a09.jpeg&imgrefurl=https%3A%2F%2Frealpython.com%2Flearning-paths%2Fperfect-your-python-development-setup%2F&docid=xERA5SciqU8LzM&tbnid=xD9_TmkVT4yc6M&vet=12ahUKEwi0ypPvsueOAxWcnGoFHVksC7I4ChAzegQIBhAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwi0ypPvsueOAxWcnGoFHVksC7I4ChAzegQIBhAA)
+[Computer setup - Diagram as link](c:\Users\Meghan Carr\Desktop\Meghan - ALL til OneDrive\Python-Development-With-Studio.jpg)
 
 Currently, I am cascading my windows to easily see these. My windows are **GitHub** in the browser, and in taskbar: **GitHub desktop** and Visual Studio Code *VS Code*.
 > When I cascade, I size windows about 4/5ths the size of the screen and place them from the upper left corner of the screen. Then place the subsequent windows slightly below and to right of another window. Then a sliver of all windows is seen, no matter which is open.
