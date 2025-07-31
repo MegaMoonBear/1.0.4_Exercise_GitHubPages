@@ -6,4 +6,4 @@
 - Markdown is a syntax to add structure and style to text documents
 - Practice as Blog and Github Pages websites
 
-[Click for detail page](Week-0 - Terms and subjects learned.md)
+[Click for detail page](Week_0_TermsSubjects.md)
