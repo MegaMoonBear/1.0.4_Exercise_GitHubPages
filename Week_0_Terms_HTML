@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <title>What I learned Week-0</title>
+  </head>
+
+ <body>
+<h1>Computer Setup</h1>
+
+<h2>Developer tools as computer setup</h2>
+<p>My windows are <b>GitHub</b> in the browser and in the taskbar, I use <b>GitHub desktop</b> and Visual Studio Code <b>VS Code</b>.</p>
+
+<blockquote> </blockquote> Should I also have <b>Command Prompt</b> open?
+
+<h1>Topics</h1> 
+<p>Main tools for software developers, including CC, are Visual Studio Code </i>VSCode</i> and Git. Markup is a simple syntax that is good for novice coders and has other uses, such as to format content in README files.</p>
+
+<h2>GitHub and GitHub Desktop</h2>  
+
+<h3>Intro to Git - Git as a magical time machine - a version control system</h3> 
+
+<p>Git is a tool for managing code-bases. A code-base is a folder with a bunch of code files that relate to the same program/application. Tools of this nature are referred to as Version Control Systems. You will be using Git to save individual changes you make to different code files in your code-bases.</p>
+<p>A repository (or repo) in GitHub is essentially a folder for your project - stores your code, files, and the history of changes.</p>
+<blockquote> </blockquote> Is a code-base, like a database, but more specifically for code files?
+
+<h3>GitHub and GitHub Desktop - Differences</h3> 
+
+| Feature - Diffs     | GitHub (Website)                                     | GitHub Desktop (App)                                      |
+|---------------------|------------------------------------------------------|------------------------------------------------------------|
+| **Platform**        | Web-based, works in browser                          | Installed software on your computer                        |
+| **Main Purpose**    | Browsing, managing issues, pull requests, settings   | Syncing local files, committing changes, pushing/pulling   |
+| **Editing Files**   | Only small edits possible in-browser                 | Used with a code editor (like VS Code) for full editing    |
+| **Visualization**   | Shows network, contributors, and branches online     | Shows visual history of changes and branches locally       |
+| **Usage Level**     | Good for overview and team collaboration             | Ideal for daily development tasks                          |
+
+
+<h2>VSCode</h2>  
+<p>A tool for writing code files. Tools of this nature are referred to as Integrated Development Environments <i>IDEs</i>. VSCode is like a fancy text editor that is designed for writing code. I appreciate the colorful clues.</p>
+
+<h2>Coding languages or syntax</h2> 
+<p>Coding languages add structure and style to text documents</p>
+<h1>Setup</h1>### Markdown 
+<p>A syntax that as ~.md. This is our first of many languages and was used to format this page.</p> 
+<h1>Setup</h1>
+HTML (HyperText Markup Language)
+
+<h2>Practice and Exercises</h2>  
+<ul> Blog exercise 
+<blockquote> How do we display our blog on CC SideQuest and/or Blog for  202508 cohort? </blockquote> 
+- Github Pages 
+- HTML redo
+- Self-teaching - See next, numbered list
+</ul> 
+
+<p>For a beginner-friendly step-by-step example, ChatGPT provided steps to edit a README file written in Markdown for a GitHub project. Here is a simple workflow using GitHub + GitHub Desktop + VS Code + Markdown.</p> 
+<ol start=1>  Daily Setup - Log into GitHub Desktop with your GitHub account  <i> VS Code will be later. </i>
+2. Clone a Repository from GitHub
+3. Edit Files in VS Code
+4. Commit and Push Your Changes
+5. Fetch or Pull Changes from GitHub
+</ol>
+
+<h3>Fetch vs. Pull - Diagram</h3>
+<a href="https://share.google/images/cnqUU7A8Rl7WEI2XB">FetchVsPull - Diagram link</a>
+
+</body>
+</html>
