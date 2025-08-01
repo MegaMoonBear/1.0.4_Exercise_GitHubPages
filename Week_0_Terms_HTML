@@ -26,13 +26,13 @@
 
 <h3>GitHub and GitHub Desktop - Differences</h3> 
 
-| Feature - Diffs     | GitHub (Website)                                     | GitHub Desktop (App)                                      |
-|---------------------|------------------------------------------------------|------------------------------------------------------------|
-| **Platform**        | Web-based, works in browser                          | Installed software on your computer                        |
-| **Main Purpose**    | Browsing, managing issues, pull requests, settings   | Syncing local files, committing changes, pushing/pulling   |
-| **Editing Files**   | Only small edits possible in-browser                 | Used with a code editor (like VS Code) for full editing    |
-| **Visualization**   | Shows network, contributors, and branches online     | Shows visual history of changes and branches locally       |
-| **Usage Level**     | Good for overview and team collaboration             | Ideal for daily development tasks                          |
+| Feature - Diffs   | GitHub (Website)                                     | GitHub Desktop (App)                                       |
+|-------------------|------------------------------------------------------|------------------------------------------------------------|
+| Platform          | Web-based, works in browser                          | Installed software on your computer                        |
+| Main Purpose      | Browsing, managing issues, pull requests, settings   | Syncing local files, committing changes, pushing/pulling   |
+| Editing Files     | Only small edits possible in-browser                 | Used with a code editor (like VS Code) for full editing    |
+| Visualization     | Shows network, contributors, and branches online     | Shows visual history of changes and branches locally       |
+| Usage Level       | Good for overview and team collaboration             | Ideal for daily development tasks                          |
 
 
 <h2>VSCode</h2>  
